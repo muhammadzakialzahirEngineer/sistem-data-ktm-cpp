@@ -29,19 +29,6 @@ struct KTM {
 };
 ```
 
-## 🛠️ Cara Compile & Menjalankan
-
-Pastikan sudah terinstall compiler C++ (misalnya **g++**).
-
-```bash
-# Compile
-g++ ktmobjek.cpp -o ktmobjek
-
-# Jalankan
-./ktmobjek        # Linux/Mac
-ktmobjek.exe      # Windows
-```
-
 ## 📋 Contoh Tampilan Menu
 
 ```
