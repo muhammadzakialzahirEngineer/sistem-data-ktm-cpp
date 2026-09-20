@@ -33,21 +33,6 @@ struct KTM {
 
 <img width="780" height="386" alt="Screenshot 2026-09-20 141735" src="https://github.com/user-attachments/assets/f8da33cc-9444-4bc9-af48-96a6c5ef7a51" />
 
-
-```
-===== MENU =====
-1. Tambah Depan
-2. Tambah Tengah
-3. Tambah Belakang
-4. Hapus Depan
-5. Hapus Tengah
-6. Hapus Belakang
-7. Cari Data (berdasarkan NIM)
-8. Tampilkan Semua Data
-0. Keluar
-Pilih:
-```
-
 ## 📂 Struktur Proyek
 
 ```
