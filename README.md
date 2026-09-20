@@ -31,7 +31,9 @@ struct KTM {
 
 ## 📋 Contoh Tampilan Menu
 
-<img width="780" height="386" alt="Screenshot 2026-09-20 141735" src="https://github.com/user-attachments/assets/f8da33cc-9444-4bc9-af48-96a6c5ef7a51" />
+<p align="center">
+<img width="780" height="386" alt="Screenshot 2026-09-20 141735" src="https://github.com/user-attachments/assets/f8da33cc-9444-4bc9-af48-96a6c5ef7a51" />  
+</p>
 
 ## 📂 Struktur Proyek
 
